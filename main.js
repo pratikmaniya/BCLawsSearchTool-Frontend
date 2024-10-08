@@ -1,5 +1,5 @@
 // const host = "http://localhost:3000"
-const host = "https://bc-laws-search-tool-backend.vercel.app/"
+const host = "https://bc-laws-search-tool-backend.vercel.app"
 
 async function searchBC() {
   const searchTerm = document.getElementById('search-term').value;
